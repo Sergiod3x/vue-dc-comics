@@ -1,6 +1,6 @@
 <template>
     <div>
-        Header
+        Midbar
     </div>
 </template>
 
@@ -8,8 +8,6 @@
 
 
 export default {
-    name: "Header"
+    name: "MidBar"
 }
 </script>
-
-
